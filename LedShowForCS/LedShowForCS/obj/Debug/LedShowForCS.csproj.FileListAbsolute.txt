@@ -1,0 +1,9 @@
+E:\yyWork\LedShowForCS\LedShowForCS\bin\Debug\LedShowForCS.exe.config
+E:\yyWork\LedShowForCS\LedShowForCS\bin\Debug\LedShowForCS.exe
+E:\yyWork\LedShowForCS\LedShowForCS\bin\Debug\LedShowForCS.pdb
+E:\yyWork\LedShowForCS\LedShowForCS\obj\Debug\LedShowForCS.csprojResolveAssemblyReference.cache
+E:\yyWork\LedShowForCS\LedShowForCS\obj\Debug\LedShowForCS.Form1.resources
+E:\yyWork\LedShowForCS\LedShowForCS\obj\Debug\LedShowForCS.Properties.Resources.resources
+E:\yyWork\LedShowForCS\LedShowForCS\obj\Debug\LedShowForCS.csproj.GenerateResource.Cache
+E:\yyWork\LedShowForCS\LedShowForCS\obj\Debug\LedShowForCS.exe
+E:\yyWork\LedShowForCS\LedShowForCS\obj\Debug\LedShowForCS.pdb
